@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Siniša Komarica
 locale:           en_US
-url:              //skomarica.github.io/site
+url:              https://skomarica.github.io/site
 
 
 # Jekyll configuration
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Siniša Komarica
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  bio: "Programming is not just a job or craft - it's form of art."
+  email: sinisa.komarica@gmail.com
+  disqus-shortname: skomarica
+  twitter: skomarica
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-44753459-2
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: skomarica
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: komarica
   instagram: #username
   lastfm: #username
   tumblr: #username
