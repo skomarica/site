@@ -1,9 +1,10 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Siniša Komarica's personal website (blog) dedicated to Information and Software Technology."
+tags: [Software Architecture, Software Development, Java, Java EE, Web, Open Source, Alfresco, Activiti, Spring, Document Management, Content Management, Business Process Management, Workflow, DM, CM, ECM, BPM]
 image:
   feature: texture-feature-01.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+
